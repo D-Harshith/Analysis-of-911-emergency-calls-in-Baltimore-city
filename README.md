@@ -1,5 +1,3 @@
-
-
 # Analysis of 911 Emergency Calls in Baltimore
 
 ## Objective
@@ -21,3 +19,11 @@ This analysis focuses on Police Emergency and Non-Emergency 911 calls from the C
   - `priority`: Priority level of the call.
   - `description`: Description of the emergency.
   - `PoliceDistrict`: District in which the emergency occurred.
+
+
+## Contributors
+
+- Harshith Doppalapudi
+- Sree Venkat Chintakula
+- Yamini Ane
+- Sarabesh NR
