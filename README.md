@@ -21,7 +21,3 @@ This analysis focuses on Police Emergency and Non-Emergency 911 calls from the C
   - `priority`: Priority level of the call.
   - `description`: Description of the emergency.
   - `PoliceDistrict`: District in which the emergency occurred.
-
-## Purpose
-
-The purpose of this analysis is to identify insights and trends within the emergency call data that can help emergency services improve their resource allocation, response strategies, and overall effectiveness in serving the community.
