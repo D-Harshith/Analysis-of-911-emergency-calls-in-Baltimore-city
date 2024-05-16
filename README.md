@@ -1,6 +1,4 @@
-Sure, here's a README template for your project on GitHub:
 
----
 
 # Analysis of 911 Emergency Calls in Baltimore
 
