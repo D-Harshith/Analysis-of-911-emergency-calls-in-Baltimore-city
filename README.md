@@ -21,9 +21,4 @@ This analysis focuses on Police Emergency and Non-Emergency 911 calls from the C
   - `PoliceDistrict`: District in which the emergency occurred.
 
 
-## Contributors
 
-- Harshith Doppalapudi
-- Sree Venkat Chintakula
-- Yamini Ane
-- Sarabesh NR
